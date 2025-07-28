@@ -12,10 +12,9 @@ A simple command-line Hangman game written in Python. The user has to guess a hi
 ## Features
 
 - Random word selection from a file
-- ASCII art representation of the hangman
 - Tracks correct and incorrect guesses
 - Prevents repeated letter inputs
-- Ends when player wins or loses
+- Ends when the player wins or loses
 
 ---
 
